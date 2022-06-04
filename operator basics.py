@@ -1,0 +1,17 @@
+a=7
+b=9
+print(a+b)
+print(a*b)
+print(a**2)
+d=6.09
+print(round(d))
+print(a%2)
+print(b/3)
+print(-a)
+print(a)
+print(b**2)
+a+=5
+print(a)
+print(a<<2)
+c=-9
+print(abs(c))
